@@ -24,7 +24,7 @@ export const DEFAULT_FONTS = [
     testId: "font-family-hand-drawn",
   },
   {
-    value: FONT_FAMILY.Nunito,
+    value: FONT_FAMILY.HanYi,
     icon: FontFamilyNormalIcon,
     text: t("labels.normal"),
     testId: "font-family-normal",

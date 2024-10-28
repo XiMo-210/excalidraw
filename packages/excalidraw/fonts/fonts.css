@@ -33,3 +33,10 @@
   style: normal;
   display: swap;
 }
+
+@font-face {
+    font-family: "HanYi";
+    src: url(../fonts/HanYi/HYHanShiTiJ.ttf) format("truetype");
+    style: normal;
+    display: swap;
+  }
